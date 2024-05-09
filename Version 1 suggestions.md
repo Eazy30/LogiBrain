@@ -17,8 +17,8 @@ We have the following ideas:
 Suggestions from ChatGPT:
 
 
-       <br>Bar Chart - Shipment Count by Transport Mode: Visualizes the number of shipments categorized by different transport modes (e.g., air, sea, road), providing insight into preferred transportation methods. [Present]
-       <br>Timeline Chart - Shipment Arrival and Departure Times: Displays the timeline of shipment arrivals and departures, aiding in tracking goods movement and identifying delays. [Add it]
+       <br> Bar Chart - Shipment Count by Transport Mode: Visualizes the number of shipments categorized by different transport modes (e.g., air, sea, road), providing insight into preferred transportation methods. [Present]
+       <br> Timeline Chart - Shipment Arrival and Departure Times: Displays the timeline of shipment arrivals and departures, aiding in tracking goods movement and identifying delays. [Add it]
        <br>Pie Chart - Distribution of Shipments by Destination Country: Illustrates the proportion of shipments going to different destination countries, helping to understand geographical distribution and plan routes accordingly. [visual with destination country is available]
        <br>Map Visualization - Origin-Destination Routes: Plots origin and destination points of shipments on a map, facilitating visualization of common routes and optimizing transportation routes. [Must have]
        <br>Stacked Bar Chart - Weight Distribution by Cargo Type: Shows the distribution of shipment weights categorized by different cargo types (e.g., bulk, containerized), aiding in understanding cargo composition. [don't add it]
