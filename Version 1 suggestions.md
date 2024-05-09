@@ -25,7 +25,7 @@ Suggestions from ChatGPT:
        6. Line Chart - Trend of Freight Costs Over Time: Depicts the trend of freight costs over time, enabling monitoring of cost fluctuations and identification of cost-saving opportunities. [Must have]
        7. Scatter Plot - Relationship between Volume and Weight: Plots shipment volumes against weights, helping to identify any correlation between volume and weight and optimize cargo loading. [Not useful]
        8. Heatmap - Density of Shipments by Port: Displays the density of shipments arriving at different ports, allowing for identification of busy ports and resource allocation. [later phase]
-       9.Funnel Chart - Shipment Progress through Stages: Visualizes the progression of shipments through various stages of the logistics process, aiding in identifying bottlenecks. [could have]
+       9. Funnel Chart - Shipment Progress through Stages: Visualizes the progression of shipments through various stages of the logistics process, aiding in identifying bottlenecks. [could have]
        10. Histogram - Distribution of Shipment Values: Shows the distribution of shipment values, enabling identification of high-value shipments for prioritization. [Not useful]
        11. Gantt Chart - Shipment Timeline with Milestones: Presents the timeline of shipments along with key milestones, facilitating tracking and management. [ could be more useful in box and whisker plot with a drill through to the shipment register] [Should have]
        12. Bubble Chart - Shipment Size vs. Transit Time: Plots shipment sizes against transit times, aiding in understanding transit time variations. [discuss with BA; can be useful to identify high value shipments that are getting delayed] [won't have]
